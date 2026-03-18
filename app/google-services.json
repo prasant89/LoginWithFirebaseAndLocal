@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914068918736",
+    "project_id": "loginwithfirebaseandlocaldb",
+    "storage_bucket": "loginwithfirebaseandlocaldb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914068918736:android:90350f80cc6979d81829d5",
+        "android_client_info": {
+          "package_name": "com.prasant.loginwithfirebaseandlocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0XROsLzO8CNmX9JZM3gchOssXpG9Lrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
